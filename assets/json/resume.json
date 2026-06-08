@@ -64,20 +64,10 @@
   ],
   "work": [
     {
-      "name": "POSTECH 인공지능대학원, LI Lab (김형훈 교수님)",
-      "position": "Research Intern",
-      "location": "Pohang, Republic of Korea",
-      "url": "https://sites.google.com/view/language-intelligence-lab",
-      "startDate": "2026-03-01",
-      "endDate": "2026-04-01",
-      "summary": "Language Intelligence Lab 연구 인턴.",
-      "highlights": []
-    },
-    {
       "name": "한양대학교 ERICA 컴퓨터학부, ARK Lab (박서연 교수님)",
       "position": "Undergraduate Research Intern",
       "location": "Ansan, Republic of Korea",
-      "url": "https://ark.hanyang.ac.kr/",
+      "url": "https://seoyeon-p.github.io/",
       "startDate": "2025-03-01",
       "endDate": "2026-02-01",
       "summary": "Robust RAG 연구. RNA-RAG(ASK 2026 게재, NIA 원장상) 및 Neuro-RIT 제1저자.",

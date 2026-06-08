@@ -63,6 +63,13 @@
   ],
   "publications": [
     {
+      "name": "RNA-RAG: 검색 증강 언어 모델의 노이즈 강건성 향상을 위한 역할 부여 뉴런 정렬",
+      "publisher": "한국정보처리학회 ASK 2026 (NIA 원장상 수상)",
+      "releaseDate": "2026-05-01",
+      "url": "https://drive.google.com/file/d/1OvOjNqOJdrPqoqbC9hN8rsNuwX-8ZlnK/view?usp=sharing",
+      "summary": "Jaemin Kim, Seo Yeon Park. 검색 증강 생성(RAG) 모델이 검색 노이즈에 강건하도록, 역할 부여 기반 뉴런 정렬을 통해 문맥 처리에 기여하는 뉴런 그룹을 정렬·조정하는 방법을 제안. ASK 2026 게재 및 NIA(한국지능정보사회진흥원) 원장상 수상."
+    },
+    {
       "name": "Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model",
       "publisher": "Submitted to ICML 2026",
       "releaseDate": "2026-01-01",

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-제1저자 논문 **Neuro-RIT**을 ICML 2026에 제출했습니다. 📄
+제1저자 논문 **Neuro-RIT**을 arXiv에 공개했습니다. 📄

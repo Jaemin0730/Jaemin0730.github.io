@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Incoming Integrated M.S./Ph.D. Student, <a href='https://gsai.postech.ac.kr/'>POSTECH Graduate School of AI</a> · NLP / RAG
 
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-안녕하세요! 한양대학교 ERICA 소프트웨어학과를 졸업하고, **2026년 9월 [POSTECH 인공지능대학원](https://gsai.postech.ac.kr/) 석박통합과정**에 입학 예정인 **김재민(Jaemin Kim)** 입니다. 대학원에서는 [전광성 교수님](https://kwangsungjun.github.io/) 지도 아래 연구를 이어갈 예정입니다.
+Hi! I'm **Jaemin Kim**, who graduated from the Department of Computer Science at Hanyang University ERICA and will join the **[POSTECH Graduate School of AI](https://gsai.postech.ac.kr/) as an Integrated M.S./Ph.D. student in September 2026**, advised by [Prof. Kwang-Sung Jun](https://kwangsungjun.github.io/).
 
-저는 **딥러닝**, **자연어처리(NLP)**, 그리고 **검색 증강 생성(RAG)** 에 관심이 있습니다. 학부 시절 ARK Lab([박서연 교수님](https://seoyeon-p.github.io/))에서 학부연구생으로, 검색 노이즈 환경에서도 신뢰할 수 있는 언어 모델을 만드는 연구를 해왔습니다 — 역할 부여 뉴런 정렬 기법인 *RNA-RAG*(ASK 2026 게재, NIA 원장상)와 뉴런 기반 인스트럭션 튜닝 프레임워크 *Neuro-RIT*을 제안했습니다.
+My research interests lie in **Deep Learning**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**. As an undergraduate researcher at the ARK Lab (advised by [Prof. Seo Yeon Park](https://seoyeon-p.github.io/)), I worked on building language models that stay reliable under noisy retrieval — proposing *RNA-RAG*, a role-aware neuron alignment method (published at ASK 2026, NIA President's Award), and *Neuro-RIT*, a neuron-guided instruction-tuning framework.
 
-연구 외에는 **알고리즘 대회 커뮤니티**에 깊이 참여하고 있습니다. ERICA 알고리즘 학회 *0&1*의 학회장을 맡았고, **HEPC**와 **ZOAC** 대회의 총괄 운영 및 문제 출제를 이끌었습니다. 또한 C/C++, 자료구조, AI 등을 가르치는 멘토링과 봉사 활동도 즐겁게 해오고 있습니다.
+Beyond research, I'm deeply involved in the **competitive programming community**. I served as president of the ERICA algorithm society *0&1*, and led the organization and problem-setting for the **HEPC** and **ZOAC** contests. I also enjoy teaching — mentoring students in C/C++, data structures, and AI — and volunteering.
 
-주로 C, C++, Python, Java, PostgreSQL을 사용하며, 백준에서 1200문제 이상을 풀어 플래티넘 V를 달성했습니다. [CV](/cv/)를 확인하시거나, [GitHub](https://github.com/Jaemin0730)에서 코드를 둘러보시거나, 이메일로 편하게 연락 주세요.
+Feel free to check out my [CV](/cv/), browse my code on [GitHub](https://github.com/Jaemin0730), or reach me by email.

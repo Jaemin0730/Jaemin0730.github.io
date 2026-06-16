@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2026년 9월부터 **POSTECH 인공지능대학원** 석박통합과정을 시작합니다 (지도교수: 전광성 교수님). 🎓
+Starting my Integrated M.S./Ph.D. at the **POSTECH Graduate School of AI** in September 2026 (advisor: Prof. Kwang-Sung Jun). 🎓

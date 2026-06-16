@@ -1,28 +1,29 @@
 ---
 layout: page
 title: Neuro-RIT
-description: 검색 증강 언어 모델의 강건성을 위한 뉴런 기반 인스트럭션 튜닝
+description: Neuron-guided instruction tuning for robust retrieval-augmented language models
 img:
 importance: 1
 category: research
 related_publications: true
 ---
 
-**역할:** 제1저자 — ARK Lab (박서연 교수님)
-**상태:** ICML 2026 제출
-**기술 스택:** PyTorch · Hugging Face
+**Role:** First author — ARK Lab (Prof. Seo Yeon Park)
+**Status:** arXiv:2604.02194
+**Stack:** PyTorch · Hugging Face
 
-## 개요
+## Overview
 
-검색 증강 생성(RAG)은 언어 모델에 외부 지식을 더해 주지만, 검색된 문맥에는 종종
-관련 없는 노이즈가 섞여 답변 품질을 떨어뜨립니다. **Neuro-RIT**은 모델이 문맥을
-어떻게 활용하는지를 뉴런 단위로 분석하여 이 문제에 접근합니다.
+Retrieval-augmented generation (RAG) adds external knowledge to language models, but the
+retrieved context is often noisy and degrades answer quality. **Neuro-RIT** tackles this by
+analyzing, at the neuron level, how the model actually uses that context.
 
-## 핵심 기여
+## Key Contributions
 
-- **뉴런 단위 기능 분해** — 모델 내부에서 *문맥 특화* 뉴런 그룹과 *공유* 뉴런 그룹을
-  식별하여, 검색된 문맥이 처리되는 위치와 모델의 파라메트릭 지식이 위치한 곳을 분리.
-- **역할 특화 요약 기반 디노이징** — 분해 결과를 활용해 노이즈가 있는 검색 문맥의
-  영향을 억제.
-- **레이어 인지 선택적 적응** — 강건성에 중요한 레이어만 선택적으로 튜닝하여,
-  간섭을 줄이면서 안정성을 향상.
+- **Neuron-level functional decomposition** — identifies *context-specific* and *shared*
+  neuron groups inside the model, separating where retrieved context is processed from where
+  the model's parametric knowledge lives.
+- **Role-specific summary-based denoising** — uses the decomposition to suppress the
+  influence of noisy retrieved context.
+- **Layer-aware selective adaptation** — tunes only the layers that matter for robustness,
+  improving stability while reducing interference.

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: 연구, 대회, 공모전 프로젝트
+description: Research, contests, and competitions.
 nav: true
 nav_order: 3
 display_categories: [research, contests, competitions]

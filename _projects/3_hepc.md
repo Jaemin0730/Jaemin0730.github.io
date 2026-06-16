@@ -1,17 +1,17 @@
 ---
 layout: page
 title: HEPC 2025
-description: Hanyang ERICA Programming Contest — 총괄 운영 & 출제진
+description: Hanyang ERICA Programming Contest — Project Lead & Problem Setter
 img:
 importance: 3
 category: contests
 ---
 
-**역할:** 총괄 운영 & 출제진 (Project Lead & Problem Setter)
-**기간:** 2025.02 ~ 2025.05
+**Role:** Project Lead & Problem Setter
+**Period:** Feb 2025 – May 2025
 
-## 활동 내용
+## What I did
 
-- 대회 기획 및 운영 전반 리딩
-- **C++ / Python** 기반 알고리즘 문제 출제 및 검토
-- 사업단·교수진과의 정기 미팅을 통한 대회 방향성 · 예산 · 일정 조율
+- Led overall contest planning and operations
+- Authored and reviewed **C++ / Python** algorithm problems
+- Coordinated direction, budget, and schedule with the program office and faculty

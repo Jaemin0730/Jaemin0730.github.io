@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: jaemkim01@hanyang.ac.kr # your email address
 github_username: Jaemin0730 # your GitHub username
 rss_icon: false
-# 백준(Baekjoon) 프로필을 커스텀 소셜 링크로 추가
+# Baekjoon (online judge) profile as a custom social link
 custom_social:
   logo: https://www.acmicpc.net/favicon.ico
   title: Baekjoon

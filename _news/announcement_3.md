@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2025 AI 융합 아이디어톤에서 고령층 음성 키오스크 시스템으로 **우수상**을 수상했습니다. 🎙️
+Won the **Excellence Award** at the 2025 AI Convergence Ideathon for an accessible AI voice kiosk for seniors. 🎙️

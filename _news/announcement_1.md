@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**RNA-RAG** 논문이 **ASK 2026**에 게재되었고, **NIA(한국지능정보사회진흥원) 원장상**을 수상했습니다. 🏆
+Our paper **RNA-RAG** was published at **ASK 2026** and received the **NIA President's Award**. 🏆

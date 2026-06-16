@@ -1,26 +1,26 @@
 ---
 layout: page
-title: AI 음성 키오스크
-description: 고령층을 위한 음성 기반 접근성 키오스크 — 2025 AI 융합 아이디어톤 (우수상)
+title: Accessible AI Voice Kiosk
+description: A voice-first accessible kiosk for seniors — 2025 AI Convergence Ideathon (Excellence Award)
 img:
 importance: 2
 category: competitions
 ---
 
-**역할:** 팀 리더 & PM
-**수상:** 🏆 우수상 — 2025 AI 융합 아이디어톤 (2025.11)
-**기술 스택:** OpenAI Whisper · GPT-4o mini · Python
+**Role:** Team Leader & PM
+**Award:** 🏆 Excellence Award — 2025 AI Convergence Ideathon (Nov 2025)
+**Stack:** OpenAI Whisper · GPT-4o mini · Python
 
-## 문제 의식
+## Motivation
 
-터치 기반 키오스크는 많은 고령층에게 진입 장벽이 됩니다. 그래서 사용자가 그냥
-*말로* 주문할 수 있는 음성 우선 주문 시스템을 만들었습니다.
+Touch-based kiosks are a barrier for many seniors. We built a voice-first ordering system
+so users can simply *speak* their order.
 
-## 시스템
+## System
 
-- **Speech-to-Text** — OpenAI **Whisper**를 활용해 고령층의 음성 입력을 텍스트로
-  변환하는 음성 인식 파이프라인을 설계·구현.
-- **NLU & Context** — 변환된 텍스트를 **GPT-4o mini**에 연동하여 주문 의도를
-  추출하고, 비정형 자연어 입력을 키오스크 처리에 적합한 정형 주문 데이터로 변환.
-- **리더십** — 팀 리더로서 전체 기획과 시스템 구조 설계를 총괄하고, 기술 발표를
-  통해 최종 우수상 수상.
+- **Speech-to-Text** — designed and implemented a speech-recognition pipeline using OpenAI
+  **Whisper** to transcribe seniors' voice input into text.
+- **NLU & Context** — connected the transcript to **GPT-4o mini** to extract ordering intent
+  and convert unstructured natural language into structured order data for the kiosk.
+- **Leadership** — as team lead, owned overall planning and system architecture, and
+  delivered the final presentation that earned the award.

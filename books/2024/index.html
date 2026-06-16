@@ -32,12 +32,17 @@
   .list-group-item li {
     overflow-wrap: anywhere;
   }
-  /* Remove the stray list bullets on CV timeline items. The theme uses
-     `list-style-position: inside`, which drops a bullet next to the date badge
-     and misaligns it with the vertical timeline line. */
-  ul.timeline,
-  ul.timeline li {
+  /* Remove the stray list bullet that appears next to each CV entry's date badge.
+     Each entry is a `li.list-group-item` inside `ul.list-group`; the bullet is the
+     marker on that outer list item. (The inner `ul.items` highlight bullets are kept.) */
+  .list-group {
     list-style: none !important;
+  }
+  li.list-group-item {
+    list-style: none !important;
+  }
+  li.list-group-item::marker {
+    content: "" !important;
   }
   /* Capitalize the about-page section headings ("news" -> "News",
      "selected publications" -> "Selected Publications"), which the theme

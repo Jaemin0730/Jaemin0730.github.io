@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Integrated M.S./Ph.D. Student, <a href='https://gsai.postech.ac.kr/'>POSTECH Graduate School of AI</a> · NLP / RAG
+subtitle: Incoming Integrated M.S./Ph.D. Student, <a href='https://gsai.postech.ac.kr/'>POSTECH Graduate School of AI</a>
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Incoming @ POSTECH GSAI (2026.09)</p>
-    <p>B.S. Computer Science, Hanyang Univ. ERICA</p>
+    <p>B.S. Computer Science,</p>
+    <p>Hanyang Univ. ERICA</p>
     <p>Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

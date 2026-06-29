@@ -8,7 +8,7 @@ category: contests
 ---
 
 **Role:** Project Lead & Problem Setter
-**Period:** Feb 2025 – May 2025
+**Period:** Feb 2025 – Jun 2025
 
 ## What I did
 

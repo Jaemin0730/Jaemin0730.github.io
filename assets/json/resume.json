@@ -105,7 +105,7 @@
       "name": "ZOAC — Zero One Algorithm Contest",
       "summary": "Project Lead & Problem Setter. Led overall contest planning and operations, authored and reviewed C++/Python algorithm problems.",
       "highlights": ["Contest planning & operations", "Problem setting & review"],
-      "startDate": "2025-07-01",
+      "startDate": "2025-08-01",
       "endDate": "2025-11-01"
     },
     {
@@ -192,6 +192,21 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Hanyang University ERICA",
+      "location": "Ansan, South Korea",
+      "position": "Teaching Assistant",
+      "startDate": "2025-03-01",
+      "endDate": "2026-08-01",
+      "summary": "Teaching assistant for several STEM and CS courses, supporting labs, problem solving, and student feedback.",
+      "highlights": [
+        "General Physics 1 (25-1)",
+        "General Chemistry 1 (25-1)",
+        "Calculus 2 (25-2)",
+        "Cloud Database Basics (25-2 winter)",
+        "Cloud Programming (26-1, ongoing)"
+      ]
+    },
     {
       "organization": "ERICA Algorithm Society 0&1",
       "location": "Ansan, South Korea",

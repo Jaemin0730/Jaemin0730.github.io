@@ -32,6 +32,4 @@ Hi! I'm **Jaemin Kim**, who graduated from the Department of Computer Science at
 
 My research interests lie in **Deep Learning**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**. As an undergraduate researcher at the ARK Lab (advised by [Prof. Seo Yeon Park](https://seoyeon-p.github.io/)), I worked on building language models that stay reliable under noisy retrieval — proposing *RNA-RAG*, a role-aware neuron alignment method (published at ASK 2026, NIA President's Award), and *Neuro-RIT*, a neuron-guided instruction-tuning framework.
 
-Beyond research, I'm deeply involved in the **competitive programming community**. I served as president of the ERICA algorithm society *0&1*, and led the organization and problem-setting for the **HEPC** and **ZOAC** contests. I also enjoy teaching — mentoring students in C/C++, data structures, and AI — and volunteering.
-
 Feel free to check out my [CV](/cv/), browse my code on [GitHub](https://github.com/Jaemin0730), or reach me by email.

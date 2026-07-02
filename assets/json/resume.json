@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Jaemin Kim",
-    "label": "Incoming Integrated M.S./Ph.D. Student @ POSTECH GSAI",
+    "label": "Incoming M.S. Student @ KAIST AI Computing",
     "image": "",
     "email": "jaemkim01@hanyang.ac.kr",
     "phone": "010-2889-5698",
-    "summary": "B.S. in Computer Science from Hanyang University ERICA. Incoming Integrated M.S./Ph.D. student at POSTECH Graduate School of AI (Sep 2026), advised by Prof. Kwang-Sung Jun. Interested in Deep Learning, NLP, and Retrieval-Augmented Generation (RAG).",
+    "summary": "B.S. in Computer Science from Hanyang University ERICA. Incoming M.S. student at KAIST Department of AI Computing (Sep 2026), advised by Prof. Jae-Gil Lee. Interested in Deep Learning, NLP, and Retrieval-Augmented Generation (RAG).",
     "location": {
-      "city": "Pohang",
+      "city": "Daejeon",
       "countryCode": "KR",
       "region": "South Korea"
     },
@@ -26,16 +26,16 @@
   },
   "education": [
     {
-      "institution": "POSTECH (Pohang University of Science and Technology)",
-      "location": "Pohang, South Korea",
-      "url": "https://gsai.postech.ac.kr/",
-      "area": "Artificial Intelligence",
-      "studyType": "Integrated M.S./Ph.D. (Incoming)",
+      "institution": "KAIST (Korea Advanced Institute of Science and Technology)",
+      "location": "Daejeon, South Korea",
+      "url": "https://aic.kaist.ac.kr/",
+      "area": "AI Computing",
+      "studyType": "M.S. (Incoming)",
       "startDate": "2026-09-01",
       "endDate": "",
       "score": "",
       "courses": [],
-      "highlights": ["Graduate School of AI", "Advisor: Prof. Kwang-Sung Jun"]
+      "highlights": ["Department of AI Computing", "Advisor: Prof. Jae-Gil Lee"]
     },
     {
       "institution": "Hanyang University ERICA",

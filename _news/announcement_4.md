@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my Integrated M.S./Ph.D. at the **POSTECH Graduate School of AI** in September 2026 (advisor: Prof. Kwang-Sung Jun). 🎓
+Starting my M.S. at the **KAIST Department of AI Computing** in September 2026 (advisor: Prof. Jae-Gil Lee). 🎓

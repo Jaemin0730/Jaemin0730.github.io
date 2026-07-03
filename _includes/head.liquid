@@ -206,4 +206,16 @@
   .post h2 {
     text-transform: capitalize;
   }
+  /* Recolor the theme accent from the default purple to KAIST blue.
+     These CSS variables drive links, headings, icons, badges, etc. */
+  :root {
+    --global-theme-color: #004191;
+    --global-hover-color: #004191;
+    --global-code-bg-color: rgba(0, 65, 145, 0.06);
+  }
+  html[data-theme="dark"] {
+    --global-theme-color: #4a90d9;
+    --global-hover-color: #4a90d9;
+    --global-code-bg-color: rgba(74, 144, 217, 0.1);
+  }
 </style>

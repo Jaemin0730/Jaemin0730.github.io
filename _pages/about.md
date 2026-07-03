@@ -10,8 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>M.S. @ KAIST AI Computing</p>
-    <p>B.S. Computer Science,</p>
-    <p>Hanyang Univ. ERICA</p>
     <p>Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

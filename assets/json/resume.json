@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jaemin Kim",
-    "label": "Incoming M.S. Student @ KAIST AI Computing",
+    "label": "M.S. Student @ KAIST AI Computing",
     "image": "",
     "email": "jaemkim01@hanyang.ac.kr",
     "phone": "010-2889-5698",
-    "summary": "B.S. in Computer Science from Hanyang University ERICA. Incoming M.S. student at KAIST Department of AI Computing (Sep 2026), advised by Prof. Jae-Gil Lee. Interested in Deep Learning, NLP, and Retrieval-Augmented Generation (RAG).",
+    "summary": "M.S. student at KAIST Department of AI Computing, advised by Prof. Jae-Gil Lee. B.S. in Computer Science from Hanyang University ERICA. Interested in Deep Learning, NLP, and Retrieval-Augmented Generation (RAG).",
     "location": {
       "city": "Daejeon",
       "countryCode": "KR",
@@ -30,7 +30,7 @@
       "location": "Daejeon, South Korea",
       "url": "https://aic.kaist.ac.kr/",
       "area": "AI Computing",
-      "studyType": "M.S. (Incoming)",
+      "studyType": "M.S.",
       "startDate": "2026-09-01",
       "endDate": "",
       "score": "",

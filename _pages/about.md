@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming M.S. Student, <a href='https://aic.kaist.ac.kr/'>KAIST Dept. of AI Computing</a>
+subtitle: M.S. Student, <a href='https://aic.kaist.ac.kr/'>KAIST Dept. of AI Computing</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Incoming @ KAIST AI Computing (2026.09)</p>
+    <p>M.S. @ KAIST AI Computing</p>
     <p>B.S. Computer Science,</p>
     <p>Hanyang Univ. ERICA</p>
     <p>Republic of Korea</p>
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm **Jaemin Kim**, who graduated from the Department of Computer Science at Hanyang University ERICA and will join the **[KAIST Department of AI Computing](https://aic.kaist.ac.kr/) as an M.S. student in September 2026**, advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil).
+Hi! I'm **Jaemin Kim**, an **M.S. student at the [KAIST Department of AI Computing](https://aic.kaist.ac.kr/)**, advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil). I earned my B.S. in Computer Science from Hanyang University ERICA.
 
 My research interests lie in **Deep Learning**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**. As an undergraduate researcher at the ARK Lab (advised by [Prof. Seo Yeon Park](https://seoyeon-p.github.io/)), I worked on building language models that stay reliable under noisy retrieval — proposing *RNA-RAG*, a role-aware neuron alignment method (published at ASK 2026, NIA President's Award), and *Neuro-RIT*, a neuron-guided instruction-tuning framework.
 

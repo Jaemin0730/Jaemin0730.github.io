@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my M.S. at the **KAIST Department of AI Computing** in September 2026 (advisor: Prof. Jae-Gil Lee). 🎓
+Started my M.S. at the **KAIST Department of AI Computing** (advisor: Prof. Jae-Gil Lee). 🎓

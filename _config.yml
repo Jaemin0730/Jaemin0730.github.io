@@ -9,7 +9,7 @@ last_name: Kim
 contact_note: >
   Email is the fastest way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jaemin Kim — Incoming M.S. student at KAIST AI Computing. Deep Learning, NLP, Retrieval-Augmented Generation (RAG).
+  Jaemin Kim — M.S. student at KAIST AI Computing. Deep Learning, NLP, Retrieval-Augmented Generation (RAG).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

@@ -45,9 +45,9 @@
       "studyType": "B.S.",
       "startDate": "2021-03-01",
       "endDate": "2026-08-01",
-      "score": "GPA 4.11 / 4.5 (Major 4.05 / 4.5), Rank 28 / 150",
+      "score": "GPA 4.12 / 4.5 (Major 4.13 / 4.5), Rank 24 / 180",
       "courses": [],
-      "highlights": ["GPA: 4.11 / 4.5 (Major 4.05 / 4.5)", "Rank: 28 / 150", "Credits: 132 / 140", "Score: 96.1 / 100"]
+      "highlights": ["GPA: 4.12 / 4.5 (Major 4.13 / 4.5)", "Rank: 24 / 180", "Credits: 140 / 140", "Score: 96.1 / 100"]
     },
     {
       "institution": "Myongji University",
@@ -134,6 +134,12 @@
       "date": "2025-11-01",
       "awarder": "Hanyang University",
       "summary": "Accessible AI voice kiosk for seniors."
+    },
+    {
+      "title": "Hanyang Brain Scholarship (Academic Excellence)",
+      "date": "2026-03-01",
+      "awarder": "Hanyang University",
+      "summary": "Spring 2026."
     },
     {
       "title": "Hanyang Brain Scholarship (Academic Excellence)",

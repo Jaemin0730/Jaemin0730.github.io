@@ -26,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+{% include site_updated.liquid %}
+
 Hi! I'm **Jaemin Kim**, an **M.S. student at the [KAIST Department of AI Computing](https://aic.kaist.ac.kr/)**, advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil). I earned my B.S. in Computer Science from Hanyang University ERICA.
 
-My research interests lie in **Deep Learning**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**. As an undergraduate researcher at the ARK Lab (advised by [Prof. Seo Yeon Park](https://seoyeon-p.github.io/)), I worked on building language models that stay reliable under noisy retrieval — proposing *RNA-RAG*, a role-aware neuron alignment method (published at ASK 2026, NIA President's Award), and co-authoring [*Where Does Robustness Live?*](https://arxiv.org/abs/2604.02194v2), which introduces *NeuRIT*, a neuron-guided robust instruction-tuning framework (accepted to **EMNLP 2026 Main Conference**).
+My research interests lie in **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)**. As an undergraduate researcher at the ARK Lab (advised by [Prof. Seo Yeon Park](https://seoyeon-p.github.io/)), I worked on building language models that stay reliable under noisy retrieval — proposing *RNA-RAG*, a role-aware neuron alignment method (published at ASK 2026, NIA President's Award), and co-authoring [*Where Does Robustness Live?*](https://arxiv.org/abs/2604.02194v2), which introduces *NeuRIT*, a neuron-guided robust instruction-tuning framework (accepted to **EMNLP 2026 Main Conference**).
 
 Feel free to check out my [CV](/cv/), browse my code on [GitHub](https://github.com/Jaemin0730), or reach me by email.

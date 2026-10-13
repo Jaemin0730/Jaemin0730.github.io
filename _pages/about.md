@@ -5,12 +5,12 @@ permalink: /
 subtitle: M.S. Student, <a href='https://aic.kaist.ac.kr/'>KAIST Dept. of AI Computing</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>M.S. @ KAIST AI Computing</p>
-    <p>Republic of Korea</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.95rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.5; margin: 0.75rem 0 0.2rem;">M.S. @ KAIST AI Computing</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; opacity: 0.7;">Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,6 +28,15 @@ latest_posts:
 
 {% include site_updated.liquid %}
 {% include author_legend.liquid %}
+
+<style>
+  .profile img {
+    border-radius: 0 !important;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
 
 Hi! I'm **Jaemin Kim**, an **M.S. student at the [KAIST Department of AI Computing](https://aic.kaist.ac.kr/)**, advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil). I earned my B.S. in Computer Science from Hanyang University ERICA.
 

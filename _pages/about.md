@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.95rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.5; margin: 0.75rem 0 0.2rem;">M.S. @ KAIST AI Computing</p>
-    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; opacity: 0.7;">Republic of Korea</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; opacity: 0.7;">Daejeon, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -32,8 +32,10 @@ latest_posts:
 <style>
   .profile img {
     border-radius: 0 !important;
-    aspect-ratio: 1;
-    object-fit: cover;
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto;
+    object-fit: contain;
     object-position: center;
   }
 </style>

@@ -70,7 +70,7 @@
       "url": "https://seoyeon-p.github.io/",
       "startDate": "2025-03-01",
       "endDate": "2026-02-01",
-      "summary": "Research on robust retrieval-augmented generation, advised by Prof. Seo Yeon Park. First author of RNA-RAG (ASK 2026, NIA President's Award) and Neuro-RIT.",
+      "summary": "Research on robust retrieval-augmented generation, advised by Prof. Seo Yeon Park. First author of RNA-RAG (ASK 2026, NIA President's Award) and co-author of Where Does Robustness Live? (NeuRIT, accepted to EMNLP 2026 Main Conference).",
       "highlights": [
         "Neuron-level functional decomposition and role-aware neuron alignment for RAG",
         "Improving robustness under retrieval noise"
@@ -91,6 +91,13 @@
       "releaseDate": "2026-01-01",
       "url": "https://arxiv.org/abs/2604.02194",
       "summary": "Jaemin Kim, Jae O Lee, Sumyeong Ahn, Seo Yeon Park. A neuron-level functional decomposition framework that identifies context-specific and shared neuron groups in RAG models, applies role-specific summary-based denoising, and performs layer-aware selective adaptation to improve robustness under retrieval noise."
+    },
+    {
+      "name": "Where Does Robustness Live? Neuron-Guided Adaptation for Retrieval-Augmented Language Models",
+      "publisher": "EMNLP 2026 Main Conference (Accepted)",
+      "releaseDate": "2026-08-20",
+      "url": "https://arxiv.org/abs/2604.02194v2",
+      "summary": "Jae O Lee, Jaemin Kim, Sumyeong Ahn, Seo Yeon Park. Accepted on August 20, 2026. Proposes NeuRIT, a neuron-guided robust instruction-tuning framework that selectively adapts context-aware neurons and layers to teach abstention for uninformative retrieval and evidence extraction from noisy contexts."
     }
   ],
   "projects": [

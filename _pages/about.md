@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.95rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.5; margin: 0.75rem 0 0.2rem;">M.S. @ KAIST AI Computing</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.9rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.45; margin: 0.45rem 0 0.15rem;">M.S. @ KAIST AI Computing</p>
     <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; margin-bottom: 0.2rem; opacity: 0.7;">Daejeon, Republic of Korea</p>
     <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.7rem; font-weight: 400; line-height: 1.4; margin: 0; opacity: 0.55;">Last updated: 2026-10-13</p>
 
@@ -31,24 +31,28 @@ latest_posts:
 
 <style>
   .profile {
-    width: 200px;
+    width: 180px;
     max-width: 100%;
     margin-right: 0;
-    margin-left: 2.25rem;
+    margin-left: 2.5rem;
     margin-bottom: 1.25rem;
   }
+  .profile figure {
+    margin: 0 0 0.35rem;
+  }
   .profile img {
-    border-radius: 0 !important;
+    border-radius: 6px !important;
     width: 100%;
-    height: auto;
-    aspect-ratio: auto;
-    object-fit: contain;
+    height: 225px !important;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
     object-position: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   }
   @media (max-width: 575px) {
     .profile {
       float: none !important;
-      width: min(100%, 200px);
+      width: min(100%, 180px);
       margin: 0 auto 1.5rem;
     }
   }

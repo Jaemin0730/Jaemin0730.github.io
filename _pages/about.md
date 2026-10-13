@@ -34,7 +34,7 @@ latest_posts:
     width: 200px;
     max-width: 100%;
     margin-right: 0;
-    margin-left: 2.25rem;
+    margin-left: 1.25rem;
     margin-bottom: 1.25rem;
   }
   .profile img {

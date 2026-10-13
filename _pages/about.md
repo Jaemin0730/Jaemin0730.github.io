@@ -5,7 +5,7 @@ permalink: /
 subtitle: M.S. Student, <a href='https://aic.kaist.ac.kr/'>KAIST Dept. of AI Computing</a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
@@ -33,7 +33,8 @@ latest_posts:
   .profile {
     width: 200px;
     max-width: 100%;
-    margin-right: 1.5rem;
+    margin-right: 0;
+    margin-left: 1.5rem;
     margin-bottom: 1rem;
   }
   .profile img {

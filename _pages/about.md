@@ -10,7 +10,8 @@ profile:
   image_circular: false
   more_info: >
     <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.95rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.5; margin: 0.75rem 0 0.2rem;">M.S. @ KAIST AI Computing</p>
-    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; opacity: 0.7;">Daejeon, Republic of Korea</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.8rem; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; margin-bottom: 0.2rem; opacity: 0.7;">Daejeon, Republic of Korea</p>
+    <p style="font-family: Inter, 'Segoe UI', Arial, sans-serif; font-size: 0.7rem; font-weight: 400; line-height: 1.4; margin: 0; opacity: 0.55;">Last updated: 2026-10-13</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-{% include site_updated.liquid %}
 {% include author_legend.liquid %}
 
 <style>

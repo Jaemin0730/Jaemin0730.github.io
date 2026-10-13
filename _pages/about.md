@@ -27,6 +27,7 @@ latest_posts:
 ---
 
 {% include site_updated.liquid %}
+{% include author_legend.liquid %}
 
 Hi! I'm **Jaemin Kim**, an **M.S. student at the [KAIST Department of AI Computing](https://aic.kaist.ac.kr/)**, advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil). I earned my B.S. in Computer Science from Hanyang University ERICA.
 

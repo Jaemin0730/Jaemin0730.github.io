@@ -1,0 +1,11 @@
+<small id="author-legend" style="font-size: 0.75rem; font-weight: 400; text-transform: none; opacity: 0.75; margin-left: 0.75rem; display: inline-block;">
+  * Co-first authors (equal contribution) · † Corresponding author(s)
+</small>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const legend = document.getElementById('author-legend');
+    const selectedLink = document.querySelector('h2 a[href="{{ '/publications/' | relative_url }}"]');
+    const heading = selectedLink ? selectedLink.parentElement : document.querySelector('h1.post-title');
+    if (heading && legend) heading.appendChild(legend);
+  });
+</script>

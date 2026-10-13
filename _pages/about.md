@@ -34,8 +34,8 @@ latest_posts:
     width: 200px;
     max-width: 100%;
     margin-right: 0;
-    margin-left: 1.5rem;
-    margin-bottom: 1rem;
+    margin-left: 2.25rem;
+    margin-bottom: 1.25rem;
   }
   .profile img {
     border-radius: 0 !important;
@@ -44,6 +44,13 @@ latest_posts:
     aspect-ratio: auto;
     object-fit: contain;
     object-position: center;
+  }
+  @media (max-width: 575px) {
+    .profile {
+      float: none !important;
+      width: min(100%, 200px);
+      margin: 0 auto 1.5rem;
+    }
   }
 </style>
 
